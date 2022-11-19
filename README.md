@@ -14,4 +14,4 @@ In my web page,i have integrated azure chat bot services in this web to answer c
 I have used language studio to create knowledge for my chat bot and i have integrated this azure web App bot in my website.
 If you have any feedback Feel free to reach out my mailid:guruguru2696@gmail.com
 
-Demo link: https://www.youtube.com/watch?v=_2JvIVSvuR4&t=56s
+Demo link: https://youtu.be/_2JvIVSvuR4
